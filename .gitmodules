@@ -19,3 +19,6 @@
 [submodule "1-sokolovskiy-ilya"]
 	path = 1-sokolovskiy-ilya
 	url = git@github.com:spbu-coding-2022/1-sokolovskiy-ilya.git
+[submodule "1-ancavar"]
+	path = 1-ancavar
+	url = git@github.com:spbu-coding-2022/1-ancavar.git
