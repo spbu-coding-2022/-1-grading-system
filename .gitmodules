@@ -31,3 +31,6 @@
 [submodule "1-ArtyomProkopets"]
 	path = 1-ArtyomProkopets
 	url = git@github.com:spbu-coding-2022/1-ArtyomProkopets.git
+[submodule "1-PavlushaSource"]
+	path = 1-PavlushaSource
+	url = git@github.com:spbu-coding-2022/1-PavlushaSource.git
