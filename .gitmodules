@@ -37,3 +37,6 @@
 [submodule "1-GryaznovAS"]
 	path = 1-GryaznovAS
 	url = git@github.com:spbu-coding-2022/1-GryaznovAS.git
+[submodule "1-d-zaytsev"]
+	path = 1-d-zaytsev
+	url = git@github.com:spbu-coding-2022/1-d-zaytsev.git
