@@ -76,3 +76,6 @@
 [submodule "1-juliakononov"]
 	path = 1-juliakononov
 	url = git@github.com:spbu-coding-2022/1-juliakononov.git
+[submodule "1-nemakin"]
+	path = 1-nemakin
+	url = git@github.com:spbu-coding-2022/1-nemakin.git
