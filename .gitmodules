@@ -64,3 +64,6 @@
 [submodule "1-RoketFlame"]
 	path = 1-RoketFlame
 	url = git@github.com:spbu-coding-2022/1-RoketFlame.git
+[submodule "1-RozhkovAleksandr"]
+	path = 1-RozhkovAleksandr
+	url = git@github.com:spbu-coding-2022/1-RozhkovAleksandr.git
