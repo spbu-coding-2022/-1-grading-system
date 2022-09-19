@@ -100,3 +100,6 @@
 [submodule "1-Bore4s"]
 	path = 1-Bore4s
 	url = git@github.com:spbu-coding-2022/1-Bore4s.git
+[submodule "1-LeonidElkin"]
+	path = 1-LeonidElkin
+	url = git@github.com:spbu-coding-2022/1-LeonidElkin.git
