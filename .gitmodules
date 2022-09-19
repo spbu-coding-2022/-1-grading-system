@@ -103,3 +103,6 @@
 [submodule "1-LeonidElkin"]
 	path = 1-LeonidElkin
 	url = git@github.com:spbu-coding-2022/1-LeonidElkin.git
+[submodule "1-Arian-Bn"]
+	path = 1-Arian-Bn
+	url = git@github.com:spbu-coding-2022/1-Arian-Bn.git
