@@ -88,3 +88,6 @@
 [submodule "1-twotwozeronine"]
 	path = 1-twotwozeronine
 	url = git@github.com:spbu-coding-2022/1-twotwozeronine.git
+[submodule "1-Alabs1"]
+	path = 1-Alabs1
+	url = git@github.com:spbu-coding-2022/1-Alabs1.git
