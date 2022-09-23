@@ -133,3 +133,6 @@
 [submodule "1-mloleg"]
 	path = 1-mloleg
 	url = git@github.com:spbu-coding-2022/1-mloleg.git
+[submodule "1-vacmannnn"]
+	path = 1-vacmannnn
+	url = git@github.com:spbu-coding-2022/1-vacmannnn.git
